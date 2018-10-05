@@ -25,8 +25,8 @@
             "number": 123
         },
         "image": {
-            "front": "/cardFronts/small/photo1516938121098.jpg",
-            "back": "/cardBacks/small/marino.jpeg"
+            "front": "cardFronts/small/photo1516938121098.jpg",
+            "back": "cardBacks/small/marino.jpeg"
         },
         "style": {
             "color": "#008E97"
@@ -58,8 +58,8 @@
             "number": 90
         },
         "image": {
-            "front": "/cardFronts/small/photo1516943681583.jpg",
-            "back": "/cardBacks/small/jurgensen58.jpeg"
+            "front": "cardFronts/small/photo1516943681583.jpg",
+            "back": "cardBacks/small/jurgensen58.jpeg"
         },
         "style": {
             "color": "#046A38"
@@ -91,8 +91,8 @@
             "number": 367
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944051624.jpg",
-            "back": "/cardBacks/small/fouts.jpeg"
+            "front": "cardFronts/small/photo1516944051624.jpg",
+            "back": "cardBacks/small/fouts.jpeg"
         },
         "style": {
             "color": "#FFC20E"
@@ -124,8 +124,8 @@
             "number": 236
         },
         "image": {
-            "front": "/cardFronts/small/photo1516943524020.jpg",
-            "back": "/cardBacks/small/brady.jpeg"
+            "front": "cardFronts/small/photo1516943524020.jpg",
+            "back": "cardBacks/small/brady.jpeg"
         },
         "style": {
             "color": "#002244"
@@ -157,8 +157,8 @@
             "number": 470
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944228778.jpg",
-            "back": "/cardBacks/small/bradshaw.jpeg"
+            "front": "cardFronts/small/photo1516944228778.jpg",
+            "back": "cardBacks/small/bradshaw.jpeg"
         },
         "style": {
             "color": "#FFB612"
@@ -190,8 +190,8 @@
             "number": 40
         },
         "image": {
-            "front": "/cardFronts/small/photo1516943778697.jpg",
-            "back": "/cardBacks/small/layne59.jpeg"
+            "front": "cardFronts/small/photo1516943778697.jpg",
+            "back": "cardBacks/small/layne59.jpeg"
         },
         "style": {
             "color": "#FFB612"
@@ -223,8 +223,8 @@
             "number": 395
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944336205.jpg",
-            "back": "/cardBacks/small/staubach.jpeg"
+            "front": "cardFronts/small/photo1516944336205.jpg",
+            "back": "cardBacks/small/staubach.jpeg"
         },
         "style": {
             "color": "#869397"
@@ -256,8 +256,8 @@
             "number": 32
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944284926.jpg",
-            "back": "/cardBacks/small/layne57.jpeg"
+            "front": "cardFronts/small/photo1516944284926.jpg",
+            "back": "cardBacks/small/layne57.jpeg"
         },
         "style": {
             "color": "#0076B6"
@@ -289,8 +289,8 @@
             "number": 65
         },
         "image": {
-            "front": "/cardFronts/small/photo1516943863891.jpg",
-            "back": "/cardBacks/small/namath68.jpeg"
+            "front": "cardFronts/small/photo1516943863891.jpg",
+            "back": "cardBacks/small/namath68.jpeg"
         },
         "style": {
             "color": "#046A38"
@@ -322,8 +322,8 @@
             "number": 150
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944511171.jpg",
-            "back": "/cardBacks/small/tarkenton.jpeg"
+            "front": "cardFronts/small/photo1516944511171.jpg",
+            "back": "cardBacks/small/tarkenton.jpeg"
         },
         "style": {
             "color": "#0B2265"
@@ -355,8 +355,8 @@
             "number": 100
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944094360.jpg",
-            "back": "/cardBacks/small/namath72.jpeg"
+            "front": "cardFronts/small/photo1516944094360.jpg",
+            "back": "cardBacks/small/namath72.jpeg"
         },
         "style": {
             "color": "#046A38"
@@ -388,8 +388,8 @@
             "number": 55
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944473671.jpg",
-            "back": "/cardBacks/small/manning.jpeg"
+            "front": "cardFronts/small/photo1516944473671.jpg",
+            "back": "cardBacks/small/manning.jpeg"
         },
         "style": {
             "color": "#D3BC8D"
@@ -421,8 +421,8 @@
             "number": 186
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944591286.jpg",
-            "back": "/cardBacks/small/jurgensen64.jpeg"
+            "front": "cardFronts/small/photo1516944591286.jpg",
+            "back": "cardBacks/small/jurgensen64.jpeg"
         },
         "style": {
             "color": "#773141"
@@ -453,8 +453,8 @@
             "number": 106
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944005766.jpg",
-            "back": "/cardBacks/small/biletnikoff.jpeg"
+            "front": "cardFronts/small/photo1516944005766.jpg",
+            "back": "cardBacks/small/biletnikoff.jpeg"
         },
         "style": {
             "color": "#000000"
@@ -485,8 +485,8 @@
             "number": 177
         },
         "image": {
-            "front": "/cardFronts/small/photo1516943934685.jpg",
-            "back": "/cardBacks/small/largent.jpeg"
+            "front": "cardFronts/small/photo1516943934685.jpg",
+            "back": "cardBacks/small/largent.jpeg"
         },
         "style": {
             "color": "#003087"
@@ -517,8 +517,8 @@
             "number": 126
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944438768.jpg",
-            "back": "/cardBacks/small/mcdonald.jpeg"
+            "front": "cardFronts/small/photo1516944438768.jpg",
+            "back": "cardBacks/small/mcdonald.jpeg"
         },
         "style": {
             "color": "#046A38"
@@ -549,8 +549,8 @@
             "number": 13
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944623221.jpg",
-            "back": "/cardBacks/small/riggins.jpeg"
+            "front": "cardFronts/small/photo1516944623221.jpg",
+            "back": "cardBacks/small/riggins.jpeg"
         },
         "style": {
             "color": "#046A38"
@@ -581,8 +581,8 @@
             "number": 70
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944369208.jpg",
-            "back": "/cardBacks/small/sayers.jpeg"
+            "front": "cardFronts/small/photo1516944369208.jpg",
+            "back": "cardBacks/small/sayers.jpeg"
         },
         "style": {
             "color": "#0B162A"
@@ -613,8 +613,8 @@
             "number": 120
         },
         "image": {
-            "front": "/cardFronts/small/photo1516943977808.jpg",
-            "back": "/cardBacks/small/csonka.jpeg"
+            "front": "cardFronts/small/photo1516943977808.jpg",
+            "back": "cardBacks/small/csonka.jpeg"
         },
         "style": {
             "color": "#008E97"
@@ -645,8 +645,8 @@
             "number": 390
         },
         "image": {
-            "front": "/cardFronts/small/photo1516944174775.jpg",
-            "back": "/cardBacks/small/campbell.jpeg"
+            "front": "cardFronts/small/photo1516944174775.jpg",
+            "back": "cardBacks/small/campbell.jpeg"
         },
         "style": {
             "color": "#418FDE"
