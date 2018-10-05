@@ -1,0 +1,18 @@
+.stats {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    width: 250px;
+    height: 350px;
+    animation-duration: 3s;
+    animation-name: backgroundFadeIn;
+    background-color: rgba(0,0,0,0.5);
+    .statselectdiv {
+        animation-duration: 1s;
+        animation-name: selectBoxFadeIn;
+        opacity: 1;
+    }
+}
