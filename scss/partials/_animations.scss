@@ -1,0 +1,19 @@
+@keyframes backgroundFadeIn {
+    from {
+        background-color: rgba(0,0,0,0);
+    }
+  
+    to {
+        background-color: rgba(0,0,0,0.5);
+    }
+}
+
+@keyframes selectBoxFadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1
+    }
+}
